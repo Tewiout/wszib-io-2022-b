@@ -31,6 +31,7 @@ class Trojkaty {
         float b = Float.valueOf(args[1]);
         float c = Float.valueOf(args[2]);
         
+      /** Wywołanie fukcji */  
         jakiTrojkat(a, b, c);
     }
 }
